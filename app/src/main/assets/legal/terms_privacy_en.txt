@@ -1,0 +1,1867 @@
+COMPREHENSIVE WEGLET TERMS OF USE,
+ACCEPTABLE USE RULES, AND PRIVACY NOTICE
+
+Revision 10, 13 August 2026
+
+IMPORTANT: READ BEFORE ACCEPTING
+
+This document governs use of the Android version of the Weglet browser
+("Weglet" or the "App"). By tapping "Accept," installing, launching, or
+continuing to use the App after this revision is displayed, you confirm that
+you have read and understood this document and agree to comply with it. If you
+do not agree, tap "Exit" and remove the App.
+
+The following summary is provided for orientation and does not replace the
+complete terms:
+
+- Weglet is a general-purpose software tool for opening locations selected by
+  the user. The Developers do not select the user's websites, queries,
+  messages, files, purchases, or other acts.
+- A user is responsible for the user's conduct and must obey applicable law.
+  Weglet must not be used for violence, threats, exploitation, fraud,
+  unauthorized access, malware, or any other unlawful act.
+- Another person's installation or use of a browser does not by itself mean
+  that the Developers approved, directed, organized, or committed that
+  person's conduct. No contract, however, excuses anyone from liability for
+  that person's own intentional unlawful conduct.
+- Security features reduce risk but do not replace antivirus software,
+  backups, address verification, and sound judgment. There is no absolute
+  security or anonymity.
+- Weglet has no Weglet account system, advertising SDK, or developer-operated
+  analytics server. Normal internet use still sends data to visited websites,
+  search providers, network infrastructure, and certain third-party providers.
+- The App and open-source code are provided "as is" to the extent permitted by
+  law. Mandatory consumer rights remain unaffected.
+
+PART I. GENERAL PROVISIONS
+
+1. Definitions
+
+1.1. "Developers" means the authors, copyright holders, and maintainers of
+Weglet code, including Android maintainer @Durov500 and desktop maintainer
+@avrety, each only with respect to that person's own work and role.
+
+1.2. "Distributor" means the person or organization from which a user obtained
+an APK, source code, or a modified build. A Distributor may not be a Developer
+and is independently responsible for its changes, promises, distribution
+channel, signature, and support.
+
+1.3. "User" or "you" means a natural person or legal entity that installs,
+launches, uses, modifies, or distributes Weglet.
+
+1.4. "Website" means any external website, server, API, search engine,
+streaming service, or other network resource accessed through the App.
+
+1.5. "Third-Party Service" means a product or infrastructure not controlled by
+Weglet, including Mozilla GeckoView, Android System WebView, Google Safe
+Browsing, OpenPhish, Audius, a selected search engine, a DNS provider, a network
+operator, an app store, and every visited Website.
+
+1.6. "Mandatory Law" means applicable rules that the parties cannot waive by
+contract, including applicable consumer rights, data protection requirements,
+and legal limits on warranty or liability exclusions.
+
+2. Scope and acceptance
+
+2.1. These terms concern operation of the App as compiled software. The Apache
+License 2.0 in the LICENSE file governs copying, studying, modifying, and
+distributing Weglet's own code. Third-party licenses govern their respective
+components. This document does not cancel or narrow a right expressly granted
+by an applicable open-source license.
+
+2.2. If you use Weglet on behalf of an organization, you represent that you
+have authority to bind that organization. If you lack that authority, use the
+App solely for yourself or do not use it.
+
+2.3. If the law where you live requires a particular age or the consent of a
+legal representative for this agreement, the App may be used only when that
+requirement is met. A parent or guardian who permits use is responsible for
+supervision to the extent required by applicable law.
+
+2.4. Refusing these terms does not remove source-code rights already obtained
+directly under an open-source license, but it means that you do not agree to
+operate the compiled build under this document.
+
+3. Project identification and contact
+
+3.1. Weglet is an open-source project. It is not a bank, emergency
+communications operator, medical system, legal service, internet service
+provider, user-content hosting service, or law-enforcement agency.
+
+3.2. The current contact method for legal notices, bug reports, and privacy
+questions is stated on the official repository page or distribution page for
+the particular build. A user should obtain the build through a channel that
+makes its origin and Distributor identifiable.
+
+3.3. Maintainer handles do not replace identity and contact information that a
+Distributor must disclose under the law of its jurisdiction. A Distributor of
+a modified or commercial build must provide its own details and must not imply
+that the Developers endorsed that build.
+
+PART II. RIGHT TO USE AND OPEN-SOURCE SOFTWARE
+
+4. Right to operate a compiled build
+
+4.1. Subject to these terms, you receive a limited, non-exclusive, revocable
+right to operate a compiled Weglet build on a compatible device for lawful
+purposes. This provision does not restrict the separate, broader rights granted
+under Apache License 2.0.
+
+4.2. Weglet is not sold, and no ownership of trademarks, the project name,
+brand presentation, or third-party materials is transferred. Permitted factual
+attribution and reproduction of required notices remain allowed.
+
+4.3. You may inspect and modify code under the applicable open-source licenses.
+If you distribute a changed build, you must comply with those licenses, clearly
+identify relevant changes, and not present the changed build as an unchanged
+official version. Its Distributor is responsible for the changed build.
+
+4.4. GeckoView and Mozilla code are licensed under Mozilla Public License 2.0.
+Onest and JetBrains Mono are licensed under SIL Open Font License 1.1. Tabler
+Icons 3.46.0 and the bundled official font are licensed under the MIT License.
+Other dependencies retain their own licenses and notices. See
+THIRD_PARTY_NOTICES.md and the accompanying license files.
+
+5. Updates and compatibility
+
+5.1. The Developers have no obligation to release an update, support, or fix by
+a particular date. The project may end, features may change, and an individual
+device, Website, or future Android version may become incompatible.
+
+5.2. GeckoView, WebView, Android, and Third-Party Services change independently.
+An update can alter compatibility, security, memory use, network behavior, or
+the set of available web features.
+
+5.3. A user is responsible for timely installation of trusted Android, WebView,
+App, and security updates. Continued use of an outdated build carries increased
+risk.
+
+PART III. BROWSER PURPOSE AND USER RESPONSIBILITY
+
+6. General-purpose tool
+
+6.1. Weglet performs commands initiated by the user: it opens an entered
+address, sends a query to a selected search provider, downloads a selected
+file, or invokes a selected feature. The App does not determine the user's
+purpose and cannot verify the legality, truth, or consequences of every act.
+
+6.2. Weglet does not create or publish external Website content, is not a party
+to the user's transactions, and does not act as the user's agent, employer,
+partner, accomplice, guarantor, or representative. Technical accessibility of
+a Website is not a recommendation, endorsement, advertisement, or finding that
+the Website is lawful.
+
+6.3. The user independently selects addresses, queries, recipients, files,
+accounts, and acts. The user is responsible for obtaining required permission,
+licenses, and consent; paying applicable taxes and charges; and complying with
+applicable law.
+
+7. Special provision concerning crimes and harm
+
+7.1. Weglet must not be used to prepare, plan, commit, order, fund, conceal,
+broadcast, propagandize, or otherwise facilitate murder, bodily harm,
+kidnapping, terrorism, extremist violence, human trafficking, sexual
+exploitation, stalking, threats, or any other crime.
+
+7.2. If a user employs Weglet in connection with an unlawful act, that use is
+the user's independent choice and conduct. Creating, publishing, or making
+available a neutral general-purpose browser does not by itself mean that the
+Developers committed the user's act, instructed the user, conspired with the
+user, approved the user's motive, or accepted the result.
+
+7.3. Section 7.2 describes the contractual purpose of the App. It does not
+purport to decide criminal or civil liability in advance. Each person's
+liability is determined by the facts and applicable law. Nothing in these
+terms excuses a Developer, Distributor, or any other person from responsibility
+for that person's own intent, actual participation, solicitation, aiding,
+fraud, destruction or concealment of evidence, or other proven unlawful act.
+
+7.4. Weglet does not promise anonymity and is not intended to conceal a person
+or evidence of a crime. Websites, network operators, Wi-Fi owners, DNS
+providers, the operating system, and other participants may receive an IP
+address, time, technical identifiers, and other data. Clearing local data does
+not erase information held by others or destroy lawfully preserved evidence.
+
+8. Acceptable use rules
+
+8.1. A user must not use the App, directly or indirectly, for:
+
+a) violence, threats, blackmail, stalking, harassment, discrimination, or
+physical, psychological, property, or reputational harm;
+
+b) sexual exploitation, child sexual abuse material, grooming, human
+trafficking, or distributing intimate material without consent;
+
+c) unauthorized access to a device, account, network, or data; bypassing
+security; credential theft; phishing; malware; ransomware; botnets;
+denial-of-service attacks; or unlawful interception;
+
+d) fraud, impersonation, forged documents, unlawful financial activity, money
+laundering, sanctions evasion, or financing a prohibited organization;
+
+e) unlawful dealing in weapons, explosives, controlled substances, stolen data,
+counterfeit goods, or other prohibited or regulated items;
+
+f) infringement of copyright, trademarks, trade secrets, image rights,
+privacy, data protection rights, or any other third-party right;
+
+g) disclosure of personal data without a lawful basis, doxxing, surveillance,
+unauthorized identification or profiling, or trading such data;
+
+h) knowingly false dangerous instructions, harmful files, unlawful advertising,
+spam, or manipulation intended to cause harm;
+
+i) interference with Weglet, a Website, or infrastructure; excessive load;
+bypassing access restrictions; or abusive automation;
+
+j) violation of a court order, confidentiality duty, export rule, sanction, or
+other binding restriction applicable to the user; or
+
+k) assisting another person with any listed act or concealing that act after
+learning of its unlawful character.
+
+8.2. This list is not exhaustive. An unlisted act is not permitted if it is
+unlawful, violates another person's rights, or creates an impermissible risk.
+
+8.3. Security research is permitted only on systems the user owns or has clear
+authorization to test, within that authorization and applicable law. Possession
+of a browser is not authorization to test someone else's system.
+
+9. No monitoring or prior control
+
+9.1. Weglet does not maintain a developer-operated cloud history or send the
+Developers a list of visited pages. The Developers therefore ordinarily do not
+know what a particular user opens and cannot technically pre-approve or block
+every act.
+
+9.2. A lack of monitoring is not permission for unlawful use. The user must
+follow these rules regardless of the likelihood of detection.
+
+9.3. The Developers do not assume a general duty to monitor the internet,
+investigate users, or retain data they do not possess. Valid and binding demands
+from competent authorities are handled to the extent required by applicable law
+and actual technical capability.
+
+9.4. Weglet does not promise that information cannot be recovered from a device
+or obtained from a third party. For an emergency, contact local emergency
+services rather than the Developers.
+
+PART IV. SECURITY AND FEATURES
+
+10. Security features and limitations
+
+10.1. Weglet uses available engine safe browsing, TLS certificate validation,
+local OpenPhish indicators, URL heuristics, look-alike-domain warnings, a user
+blocklist, known-tracker rules, and download warnings.
+
+10.2. These measures rely on incomplete lists, heuristics, and third-party data.
+They may miss a new threat, falsely block a safe resource, become outdated,
+fail to refresh, or operate differently in GeckoView and WebView.
+
+10.3. Weglet is not antivirus software, a dangerous-file sandbox, a data loss
+prevention system, parental control, a guaranteed content filter, or a
+substitute for a professional security audit.
+
+10.4. A user should verify domains and certificates, avoid entering secrets on
+suspicious pages, use unique passwords and multifactor authentication, maintain
+backups, and inspect downloaded files with appropriate tools.
+
+11. HTTP, TLS, and network intermediaries
+
+11.1. HTTPS protects a connection only when the protocol, certificates, device,
+and endpoint operate correctly. It does not prove that a Website owner is
+honest or that the Website content is free from vulnerabilities.
+
+11.2. Plain HTTP requires a separate warning, but the user's confirmation does
+not encrypt it. A network owner or intermediary may see and alter unencrypted
+traffic.
+
+11.3. VPN, proxy, private DNS, or network privacy modes are configured outside
+Weglet and have separate terms. Weglet does not guarantee their existence,
+correct operation, or anonymity.
+
+12. Downloads and executable files
+
+12.1. Downloads are handed to Android System Download Manager and ordinarily
+stored in Downloads. Weglet does not fully inspect each file and cannot warrant
+its name, type, authenticity, license, or safety.
+
+12.2. APKs, scripts, active documents, and other files may cause harm. Android
+separately confirms APK installation. Weglet's permission to request package
+installation does not mean it silently installs or warrants a package. The user
+must verify the source, signature, and requested permissions.
+
+12.3. Clearing browser data does not remove previously downloaded files. Their
+deletion, execution, transfer, and backup are controlled by the user and OS.
+
+13. Camera, microphone, and files
+
+13.1. In WebView mode, a Website can access the camera or microphone only if the
+user enables site permissions, confirms that Website's request, and grants the
+Android runtime permission. Unsupported or mixed resource requests are denied.
+The user can revoke permission in Android settings.
+
+13.2. The current GeckoView mode denies Website camera and microphone requests.
+Geolocation and direct Website access to local file storage are not provided.
+A future change must be disclosed in a revised notice.
+
+13.3. Local audio and wallpaper images are selected through an Android system
+picker. Weglet receives access only within Android's grant. A user must not
+select material the user has no right to use.
+
+14. Music player and Audius
+
+14.1. The player plays selected local audio and public Audius streams. A music
+search query is sent to the Audius API, and a stream comes from its
+infrastructure. Availability depends on Audius, the network, and rights holders.
+
+14.2. A catalog listing does not guarantee that downloading, copying, public
+performance, or other use is lawful in a particular country. The user is
+responsible for copyright and the Audius terms.
+
+15. OpenPhish and threat warnings
+
+15.1. When the phishing database is enabled, Weglet downloads the public
+OpenPhish Community Feed no more than once every 12 hours and stores local
+SHA-256 indicators. Visited addresses are compared on the device and are not
+sent to OpenPhish by Weglet's feed module. The provider still receives ordinary
+connection data for the feed download.
+
+15.2. The Community Feed is available under OpenPhish terms; commercial or other
+use may require separate permission. An indicator is not a final legal finding
+about a domain owner or intent.
+
+16. Third-party Websites, content, and transactions
+
+16.1. Each Website sets its own terms, privacy notice, account rules, and payment
+processing. Before submitting data or paying, the user should read those terms
+and verify the recipient.
+
+16.2. The Developers do not control Website goods, advice, statements,
+advertising, code, payments, subscriptions, delivery, refunds, availability, or
+legality. A dispute with a Website owner is between the user and that owner
+unless Mandatory Law provides otherwise.
+
+16.3. Website content may be unlawful, inaccurate, offensive, or dangerous.
+Technical ability to access it is not endorsement.
+
+17. No professional advice or safety-critical use
+
+17.1. Search results and Website content are not advice from the Developers.
+Weglet does not provide legal, medical, financial, investment, psychological,
+engineering, or other professional advice.
+
+17.2. The App is not intended as the sole channel for emergency communication
+or to control transportation, weapons, medical equipment, industrial systems,
+critical infrastructure, or another activity where failure can cause death,
+injury, environmental harm, or major loss. Use appropriate certified systems
+and independent checks.
+
+PART V. WARRANTIES, RISK, AND LIABILITY
+
+18. "As is" provision
+
+18.1. To the maximum extent permitted by law, Weglet is provided "as is" and
+"as available," with all faults and without express, implied, or customary
+warranties of merchantability, fitness for a particular purpose,
+non-infringement, accuracy, security, compatibility, availability, error-free
+operation, or freedom from harmful content.
+
+18.2. The Developers do not warrant that the App will operate continuously,
+retain every tab or setting, open every Website, stop every threat, achieve any
+particular speed, or avoid termination by the operating system.
+
+18.3. No correspondence, feature description, warning, or advice creates a
+warranty not expressly required by Mandatory Law or a separate written
+agreement signed by an authorized person.
+
+19. User assumption of risk
+
+19.1. The user accepts ordinary internet risks, including phishing, malware,
+data disclosure, tracking, unwanted content, file loss, Website errors,
+third-party term changes, and software incompatibility.
+
+19.2. The user is responsible for device configuration, backups, account
+security, legality of conduct, recipient verification, and decisions made from
+external content.
+
+20. Limitation of liability
+
+20.1. To the maximum extent permitted by applicable law, the Developers,
+project contributors, and good-faith non-commercial Distributors are not liable
+for indirect, incidental, special, punitive, or consequential damage, lost
+profit, data, reputation, access, use, savings, or revenue arising from use or
+inability to use Weglet, a Website, a downloaded file, or a Third-Party Service,
+even if the possibility was known.
+
+20.2. To the same extent, they are not liable for an independent act of a user
+or third party, including a crime, violence, threat, fraud, unauthorized access,
+publication, purchase, transfer of funds, download, installation, or rights
+violation committed using the App as one of the tools.
+
+20.3. If liability cannot be excluded completely, aggregate liability for
+claims relating to a free Weglet copy is limited to the greater of the amount
+actually paid for that copy in the preceding 12 months or EUR 10, where that
+limit is lawful. A Distributor of a paid or commercial build must provide its
+own lawful terms and is responsible for its charges and promises.
+
+20.4. Nothing excludes liability that law does not allow a party to exclude,
+including, as applicable, liability for that party's own intentional wrongdoing,
+fraud, gross negligence, death or personal injury caused by the liable party,
+mandatory defective-product liability, or other non-waivable consumer rights.
+
+20.5. These limitations apply regardless of the legal theory, but only to the
+extent fair and valid under applicable law. If a particular limitation is
+invalid, the closest lawful limitation applies and the remaining terms survive.
+
+21. Third-party claim indemnity
+
+21.1. Where a user acts for business purposes and Mandatory Law permits this
+clause, the user will reimburse reasonable loss and expense incurred by the
+Developers due to the user's proven intentional unlawful use, infringement of a
+third-party right, or distribution of a modified build with false attribution.
+
+21.2. Section 21.1 does not apply to an ordinary consumer to the extent it would
+create an unfair imbalance, does not cover harm caused by the claimant's own
+wrongful conduct, and does not deprive the user of a defense.
+
+22. Events outside reasonable control
+
+22.1. The Developers are not responsible for delay or failure caused by Android,
+device, network, electricity, DNS, certificate, app store, Website, third-party
+API, sanctions, natural disaster, armed conflict, cyberattack, or another event
+outside their reasonable control.
+
+PART VI. PRIVACY AND DATA
+
+23. Scope of this notice
+
+23.1. This Part describes the unmodified Weglet Android build version 1.3.6. A
+modified build may behave differently. Its Distributor must perform a separate
+review and provide an accurate notice.
+
+23.2. Weglet does not provide a Developer-operated proxy or relay. A device
+ordinarily connects directly to selected Websites and third-party APIs. The
+Developers do not become the owner or operator of each visited Website.
+
+24. Data Weglet does not send to the Developers
+
+24.1. The App has no Weglet account registration, advertising SDK,
+Developer-operated analytics server, Weglet cloud sync, or form that sends
+history to the Developers. Weglet does not maintain a separate cloud list of
+visited pages or sell history, bookmarks, wallpaper, or local audio to the
+Developers or advertisers.
+
+24.2. Weglet disables remote debugging and console output in the compiled build
+and declares the Android WebView metrics opt-out manifest setting. This does not
+control every processing activity of the OS, rendering engine, Websites, or
+other installed applications.
+
+24.3. If a future version adds a Weglet server, sync, analytics, automatic crash
+report upload, or advertising, a revised notice must be issued before that
+processing and consent obtained where required.
+
+25. Data stored locally
+
+25.1. The device may store language, selected engine and search provider,
+interface settings, bookmarks, shortcuts, the user blocklist, Download Manager
+IDs, the accepted terms version and timestamp, OpenPhish state, local cookies,
+cache, DOM storage, Website data, and tab state.
+
+25.2. A selected wallpaper is copied into private App storage. Android may grant
+persistent read access to a selected local audio file. These files are not
+uploaded to a Weglet server.
+
+25.3. `android:allowBackup` is disabled for the App, but device firmware,
+administrator tools, or third-party backup behavior may be outside Weglet's
+control.
+
+26. Web traffic and recipients
+
+26.1. To open a page, the device sends the Website and network intermediaries
+data needed for the connection, such as IP address, domain, time, HTTP headers,
+TLS data, browser and device characteristics, resource requests, submitted
+forms, downloads, and other acts. The protocol, engine, and Website determine
+the exact set.
+
+26.2. A DNS provider, carrier, Wi-Fi administrator, VPN, or proxy may also see
+metadata according to its technical position. HTTPS limits visibility of
+content but does not hide all metadata and does not provide anonymity.
+
+26.3. A Website may use cookies, pixels, scripts, local storage, account login,
+and fingerprinting. Weglet blocks some known trackers but does not guarantee
+blocking every form of observation.
+
+27. Search
+
+27.1. Search text is sent only after a user action to the selected provider:
+DuckDuckGo, Bing, Google, or a user-defined HTTPS template. The provider
+receives the query and ordinary network data and handles it under its own
+policy. The user can change providers in Settings.
+
+27.2. If input is recognized as an address, it may be opened as a Website rather
+than sent to a search provider. Weglet does not warrant perfect classification.
+
+28. GeckoView and Android WebView
+
+28.1. On a physical device, a user selects Mozilla GeckoView or Android System
+WebView. On a detected Android emulator, Weglet requires WebView so that heavy
+Gecko child processes are not started. The engines make network connections,
+execute Website code, and store local data. Depending on version and settings,
+they may contact their providers for updates, certificates, threat lists, or
+other integrated functions.
+
+28.2. GeckoView is configured for strict tracking protection, third-party cookie
+isolation, tracker-cookie purging, known tracking-parameter stripping, and Global
+Privacy Control. These signals and filters do not compel every Website to comply.
+
+28.3. WebView accepts first-party cookies and rejects third-party cookies in
+views created by Weglet, but exact behavior depends on the installed system
+version. WebView Safe Browsing is enabled on supported devices.
+
+28.4. Safe Browsing systems may contact a threat-list provider and process URLs
+or URL-derived values under that provider's technology and policy. This is
+third-party processing, not transmission of history to a Weglet server.
+
+29. OpenPhish
+
+29.1. If enabled, Weglet requests the public OpenPhish file hosted on GitHub no
+more than once every 12 hours. GitHub/OpenPhish receives the IP address,
+User-Agent, time, and ordinary file-request data.
+
+29.2. URLs in the retrieved list are converted to SHA-256 indicators on the
+device. Weglet stores the indicator set, source count, update time, and failure
+state. The address being checked is not sent to the feed provider by this module.
+
+30. Audius
+
+30.1. For music search, the query and `app_name=Weglet` parameter are sent to the
+Audius API with the IP address, User-Agent, and connection data. For playback,
+Audius receives the track identifier and streaming request data.
+
+30.2. Local audio is not uploaded to Audius or the Developers. Opening a track
+page loads the Audius Website, which may set its own cookies.
+
+31. Camera and microphone
+
+31.1. Android reports the result of a runtime permission request to Weglet. If
+permission is granted, the selected Website in WebView can receive the relevant
+media stream. Stream content goes to that Website under its protocol, not to a
+Weglet server.
+
+31.2. A user should grant access only to a trusted Website and may revoke it in
+Android settings. Camera and microphone indicators depend on the Android and
+device version.
+
+32. Downloads and external applications
+
+32.1. For a download, Weglet may give Android Download Manager the file URL,
+name, MIME type, User-Agent, and relevant Website cookie. Download Manager and
+the file provider process these as separate components.
+
+32.2. When a file or external link is opened, Android may pass data to the
+selected application. That application's policy governs further processing.
+
+33. Retention and deletion
+
+33.1. Local preferences remain until changed, App data is cleared, or the App is
+removed. Cookies, cache, and Website data follow engine and Website rules.
+OpenPhish indicators remain until refresh, disabling, or data clearing.
+
+33.2. "Clear data" removes supported cookies, cache, and Website data but keeps
+bookmarks and does not remove files in Downloads. Full local removal is
+performed through Android's clear-storage or uninstall controls, subject to
+backups and device behavior.
+
+33.3. The Developers cannot provide or erase data they never received and that
+exists only on a device or independent Website. A request concerning Website
+data should be addressed to that Website's operator.
+
+34. Legal bases and data rights
+
+34.1. Local processing is necessary to perform functions selected by the user
+and takes place on the user's device. If a user voluntarily sends a Developer
+an email, bug report, or other material through an external channel, the channel
+operator and recipient process it to respond, protect the project, and comply
+with law under an applicable legal basis.
+
+34.2. Where rights of access, correction, deletion, restriction, objection,
+portability, or regulatory complaint apply, the user may exercise them with the
+actual controller of the relevant data. Weglet cannot perform a request for data
+held only by an independent Website.
+
+34.3. A Third-Party Service may operate in another country and use its own
+international transfer mechanism. A user should review its notice and controls
+before using it.
+
+35. Children and vulnerable users
+
+35.1. Weglet is not directed specifically to children and does not create child
+profiles. The Developers do not knowingly request children's personal data
+through a Developer server because the App has no such server.
+
+35.2. The internet contains material unsuitable for minors. Parents and
+guardians should use system family-safety tools, supervise Websites, and explain
+risks. Weglet is not a guaranteed age or content filter.
+
+36. Local data security
+
+36.1. Weglet uses private Android storage and disables App backup, but no system
+is absolutely secure. An unlocked, infected, or rooted device, malicious
+keyboard, screenshot, or compromised OS account may disclose data beyond
+Weglet's control.
+
+36.2. A user should protect the device with screen locking, updates, encryption,
+a trusted keyboard, and control of installed applications.
+
+PART VII. APPLICABLE LAW AND PROCEDURE
+
+37. Mandatory consumer rights
+
+37.1. These terms do not deprive a consumer of protection that cannot be waived
+by contract. In particular, an unfair clause does not apply to the extent it
+creates an unlawful significant imbalance or excludes mandatory liability.
+
+37.2. Nothing requires a user to waive access to a competent court, data
+protection authority, consumer authority, or law-enforcement agency where the
+law grants that access.
+
+38. Applicable law and disputes
+
+38.1. Applicable law and the competent forum are determined by mandatory rules
+and conflict-of-laws principles. A consumer retains the protection and forum
+provided by Mandatory Law in the consumer's country of habitual residence.
+
+38.2. Before formal proceedings, the parties may try in good faith to resolve
+the issue through the contact stated on the official page for the build. This
+does not suspend a mandatory filing deadline and is not compulsory arbitration.
+
+39. Changes to these terms
+
+39.1. These terms may be revised when features, data flows, law, or risks change.
+For a material change, Weglet increments the revision number and displays the
+document again before starting a protected browsing session.
+
+39.2. A new revision applies after acceptance and does not retroactively change
+rights already established by law. A user who disagrees must stop using the
+relevant compiled build.
+
+40. Ending use
+
+40.1. A user may end this agreement by ceasing use and uninstalling the App.
+Local and downloaded files must be removed separately where desired.
+
+40.2. A material breach ends the contractual right to operate the compiled
+build to the maximum extent permitted by law. Rights in code under an
+open-source license are governed by that open-source license itself.
+
+40.3. Provisions concerning intellectual property, liability, data, disputes,
+and interpretation survive to the extent necessary for their purpose.
+
+41. Severability, no waiver, and entire terms
+
+41.1. If a provision is invalid, it applies to the maximum lawful extent or is
+severed without affecting the remainder.
+
+41.2. Failure to enforce a provision once is not a future waiver. Headings are
+for convenience and do not limit meaning.
+
+41.3. These terms, Apache License 2.0, and applicable third-party licenses form
+the complete rules for their respective subjects. An open-source license
+controls the code rights it grants, and Mandatory Law always controls.
+
+42. Language and interpretation
+
+42.1. The Russian and English revisions are intended to be equivalent. If they
+differ, the interpretation that best reflects Weglet's purpose, preserves
+mandatory user rights, and applies liability limitations only to the lawful
+maximum should be used.
+
+42.2. "Including" and "for example" do not limit a following list. Singular
+words include the plural when context requires.
+
+PART VIII. SPECIAL USE CASES
+
+43. Accounts, passwords, and identity verification
+
+43.1. Weglet may display sign-in, registration, account-recovery, multi-factor
+authentication, and identity-verification forms created by a Website. Those forms
+do not become Weglet forms. The Developers do not receive the entered information
+through an App-operated server, do not verify the Website's authority, and do not
+certify that a particular form actually belongs to the organization it names.
+
+43.2. Before entering a password, code, recovery phrase, identity-document number,
+biometric information, or other sensitive information, the user must verify the
+domain name, secure-connection status, purpose of the request, and recipient's
+identity. A lock symbol, absence of a warning, or successful page load does not
+guarantee that the Website operator is legitimate.
+
+43.3. The user is responsible for safeguarding credentials, for the consequences
+of giving another person access, and for promptly securing a compromised account.
+Weglet is not a password manager, certification authority, account-recovery service,
+or party to the agreement between the user and a Website.
+
+43.4. Autofill services, keyboards, the clipboard, screenshots, notifications, and
+accessibility services are controlled by Android and installed applications. They
+may gain access to displayed or entered information independently of Weglet.
+
+44. Messages, publications, and user content
+
+44.1. Weglet may be used to reach email, forums, social networks, messengers,
+comment systems, and other platforms. The user or relevant third party remains the
+author and sender of text, images, files, links, voice, or other material. The
+Developers do not edit, approve, or publish that material in their own name.
+
+44.2. The user is independently responsible for lawful publication, required
+consents, confidentiality, intellectual-property rights, advertising rules,
+reputation and privacy rights, secrecy of communications, and prohibitions on
+threats, harassment, stalking, or knowingly unlawful material.
+
+44.3. A technical ability to open an input field or submit a request does not mean
+that the act is permitted by law, contract, platform rules, or the data owner.
+Weglet grants no immunity, editorial privilege, media status, source protection,
+or right to publish another person's information.
+
+44.4. A Website may retain submitted content, metadata, IP address, time, account
+identifiers, and device information. Clearing local Weglet data does not recall a
+sent message or erase it from a recipient or Website operator.
+
+45. Purchases, subscriptions, and commercial transactions
+
+45.1. When a Website is used to obtain goods, services, tickets, subscriptions,
+insurance, digital items, or other value, the seller and payment parties are the
+persons identified by that Website, not Weglet or the Developers. Weglet does not
+set price, availability, quality, delivery, refunds, warranty, taxes, exchange
+rates, or transaction terms.
+
+45.2. The user must verify the seller, final amount, recurring-charge schedule,
+cancellation rules, territorial limits, and payment-page details. The Developers
+do not guarantee performance and are not an agent, broker, escrow provider,
+payment system, marketplace, or dispute arbitrator.
+
+45.3. A display, translation, scaling, date-format, or currency-format error does
+not modify the seller's terms. Before confirming a transaction, the user should
+cross-check material details with the counterparty and the bank or payment provider.
+
+45.4. Refunds, chargebacks, quality complaints, and tax documents must be requested
+from the seller, payment provider, or other responsible party. Mandatory consumer
+rights against the actual seller remain intact.
+
+46. Finance, investments, and digital assets
+
+46.1. Quotes, charts, news, forecasts, signals, ratings, and commentary reached
+through Weglet are produced by third parties and may be incomplete, delayed, or
+wrong. They are not investment, banking, tax, or other professional advice from
+the Developers.
+
+46.2. The user independently assesses the risk of transferring money or trading
+securities, currencies, tokens, NFTs, or other assets. A lost private key or seed
+phrase, wrong destination, irreversible transaction, fraudulent project, or market
+movement ordinarily cannot be repaired by a browser.
+
+46.3. Weglet must not be used for money laundering, terrorist financing, sanctions
+evasion, payment-data theft, unauthorized wallet access, market manipulation, or
+other prohibited financial activity.
+
+46.4. The Developers do not hold funds, control a wallet, perform customer due
+diligence, or certify that a service complies with financial regulation. Access to
+a Website does not mean that the service is licensed where the user is located.
+
+47. Health, medicine, and emergencies
+
+47.1. Medical material, calculators, symptom descriptions, instructions, maps, or
+contacts found online are not a diagnosis or recommendation by the Developers.
+Where life or health is at risk, the user should contact the local emergency service
+and a qualified professional through channels intended for that purpose.
+
+47.2. Weglet does not guarantee the availability, accuracy, or timeliness of
+emergency information and is not intended as the sole way to call for help, guide
+responders, control a medical device, or store a critical patient record. The
+network, device, Website, or engine may fail without notice.
+
+47.3. The user must not delay seeking care because of information, an error, a
+warning, or a missing result in the browser. Decisions about treatment, dosage,
+stopping therapy, or disclosing health information require applicable legal and
+professional consideration.
+
+48. Law, public services, and official procedures
+
+48.1. Statutes, court materials, forms, deadlines, and explanations found through
+Weglet may be unofficial, outdated, or from another jurisdiction. They are not a
+legal opinion from the Developers.
+
+48.2. The user independently verifies an authority's official address, current
+form, signatory authority, electronic-signature requirements, filing deadline, and
+receipt. A browser upload or submission failure ordinarily does not extend a legal
+or contractual deadline.
+
+48.3. Weglet does not verify identity, issue electronic signatures, retain original
+documents, or represent a user before a court, regulator, tax authority, or other
+body. A critical filing should use the official channel and an independent record
+of successful delivery.
+
+49. Independent criminal acts, violence, and causation
+
+49.1. A person who plans, threatens, prepares, funds, incites, assists, or commits
+murder, assault, kidnapping, terrorism, torture, exploitation, trafficking, or
+another offense using Weglet acts on that person's own volition and bears personal
+responsibility under applicable law.
+
+49.2. Providing a general-purpose browser does not by itself mean that the Developers
+knew of a particular plan, approved it, joined a conspiracy, issued an instruction,
+provided purpose-specific assistance, or became a principal, organizer, or accomplice.
+The technical ability to reach a public Website does not create agency, instruction,
+or a shared criminal purpose.
+
+49.3. A user may not cite Weglet, its availability, a protective feature, the
+absence of a block, or these terms as an excuse, authorization, command, advice,
+or ground for reducing that user's responsibility. Causation and liability are
+decided by a competent authority based on facts and law.
+
+49.4. This section does not exclude liability for a person's own proven intentional
+participation, assistance, gross negligence, or breach of a duty that cannot be
+excluded by contract. It distinguishes a user's independent act from creation of
+a neutral tool and does not obstruct a lawful investigation.
+
+49.5. The Developers do not promise continuous surveillance of users, do not
+receive a copy of all browsing traffic, and ordinarily cannot know in advance that
+a specific person intends to commit a crime. An immediate danger should be reported
+to the local emergency service, not merely to the project's repository.
+
+50. Exploitation, harassment, and dangerous content
+
+50.1. Child sexual exploitation, coercion, human trafficking, non-consensual intimate
+material, targeted stalking, doxxing, blackmail, encouragement of suicide, instructions
+for immediate physical harm, and distribution of material prohibited by applicable
+law are strictly forbidden.
+
+50.2. The user should stop the interaction, avoid forwarding prohibited material
+without a lawful need, and use the Website's official reporting tools or competent
+authorities. A browser is not a moderation service for every Website and cannot
+reliably understand the context of every image or message.
+
+50.3. Blocking a domain on one device does not remove material from the internet,
+notify a victim, or replace evidence-preservation steps recommended by a competent
+professional. Careless copying of evidence may itself be unlawful; local rules apply.
+
+51. Cybersecurity and access to systems
+
+51.1. Without proper authorization, a user must not scan systems, guess passwords,
+bypass authentication, inject code, impair availability, intercept data, operate
+malicious infrastructure, distribute exploits to cause harm, or access another
+system, account, network, or device.
+
+51.2. Legitimate testing is allowed only within an expressly authorized scope,
+time, and target. A publicly reachable address, missing password, or technical
+ability to send a request is not equivalent to permission from the system owner.
+
+51.3. The user is responsible for commands, payloads, destinations, request rates,
+retained data, and testing consequences. Weglet does not verify a mandate or
+automatically distinguish research from an attack.
+
+51.4. If another person's secrets are encountered accidentally, the user should
+stop access, avoid using or distributing the information, and notify the owner
+through a safe channel as the law permits. These terms grant no right to conceal
+an incident.
+
+52. Intellectual property and technical controls
+
+52.1. The user must respect copyright, trademark, database, software, trade-secret,
+and contractual rights. Availability through a Website does not authorize copying,
+modification, publication, sale, or circumvention of technical protection measures.
+
+52.2. Weglet acquires no rights in Website content and grants no license to it.
+Whether quotation, backup, research, interoperability, or another use is allowed
+depends on applicable law and the right holder's license, not browser capability.
+
+52.3. The Developers are not responsible for a user's decision to download or
+distribute material and do not guarantee that a Website's rights notices are
+complete. Permission or professional advice should be obtained where needed.
+
+53. Automated access, scraping, and platform rules
+
+53.1. Scripts, automated navigation, bulk downloading, scraping, rate-limit evasion,
+account creation, and other automation may violate law or Website terms. The user
+must evaluate authorization, robots instructions, API limits, infrastructure load,
+and rules governing collected data.
+
+53.2. Weglet grants no special right to use a Website in a way its owner prohibits.
+The user is responsible for request volume and frequency, client identification,
+result storage, and impact on service availability.
+
+53.3. Website defenses may block the browser, require verification, or alter output.
+The Developers do not guarantee circumvention and need not adapt the App to defeat
+another party's technical restrictions.
+
+54. Information, news, and user decisions
+
+54.1. Weglet transmits and displays information selected by the user and obtained
+from independent sources. The Developers do not verify news, translations, reviews,
+maps, schedules, scientific claims, or search results.
+
+54.2. Before a decision that may affect life, health, liberty, substantial money,
+employment, or another person's rights, the user should verify the primary source,
+date, authorship, and context. Search ranking and page appearance are not proof.
+
+54.3. The Developers do not assume editorial liability for a statement merely
+because a user viewed it through Weglet. This does not remove any duty imposed by
+law to correct the Developers' own misleading statement about the App.
+
+55. Artificial-intelligence services and generated material
+
+55.1. A Website may offer a chatbot or generate text, images, code, or recommendations.
+That output remains third-party material when shown in Weglet. The Developers do
+not train that service, choose its answer, or guarantee freedom from error, bias,
+or infringement.
+
+55.2. A user should not provide an external AI service with secrets, personal data,
+or protected material without a lawful basis and an understanding of its policy.
+AI output must be checked before code execution, publication, or a medical, legal,
+financial, or other consequential decision.
+
+55.3. Responsibility for a prompt, use of an output, and license compliance belongs
+to the user and service operator to the extent of their respective conduct. The
+Weglet name in a User-Agent does not imply joint development or endorsement.
+
+PART IX. OPERATIONS, RELIABILITY, AND RISK MANAGEMENT
+
+56. Work, education, and controlled environments
+
+56.1. An employer, school, library, parent, or device administrator may impose its
+own access, monitoring, and retention rules. Weglet does not override those rules
+or guarantee that personal use on a managed device is private or permitted.
+
+56.2. A person deploying Weglet for others is responsible for lawful basis,
+notices, filtering settings, accessibility, age restrictions, support, and risk
+assessment. Technical availability of a feature does not replace policy or consent.
+
+56.3. Examinations, professional systems, and closed networks may prohibit third-
+party browsers. The user must obtain permission. The Developers do not guarantee
+compatibility with proctoring, MDM, organizational certificates, or internal portals.
+
+57. Accessibility and individual needs
+
+57.1. The Developers seek to support system accessibility features but do not
+guarantee compliance with every standard, assistive technology, or individual need.
+Website content remains controlled by its operator.
+
+57.2. Changes to scale, color, font, animation, or control placement may affect
+readability and compatibility. The user must select a suitable configuration, and
+an organization should perform its own accessibility review before mandatory use.
+
+57.3. If an accessibility limitation creates immediate risk, an alternative
+accessible channel should be used. A bug report may help improve the project but
+does not promise a fix by a particular date.
+
+58. Organizations, administrators, and shared devices
+
+58.1. An organization providing a device or build independently determines data-
+controller and processor roles, retention, acceptable use, incident response, and
+data-subject request handling. This notice describes Weglet but does not replace
+the organization's notice.
+
+58.2. In a shared Android profile, cookies, downloads, bookmarks, and sessions may
+be available to the next person using that profile. Separate system profiles, guest
+mode, or other OS controls are needed for separation; a Weglet tab is not a boundary
+between people.
+
+58.3. An administrator must evaluate VPN, proxy, certificate, DNS-filtering, backup,
+MDM, and sector-specific requirements. The Developers are not an enterprise
+certification provider unless separately agreed in writing.
+
+59. Networks, roaming, and service charges
+
+59.1. Pages, video, audio, downloads, threat-feed updates, and engine components
+consume network traffic. A carrier, VPN, Wi-Fi operator, satellite provider, or
+other party may charge fees, throttle service, or keep separate records.
+
+59.2. The user is responsible for the plan, roaming, quotas, background-data rules,
+and permission from the network owner. Weglet does not reimburse traffic, subscriptions,
+SMS, calls, or other third-party charges unless Mandatory Law expressly requires it.
+
+59.3. File-size estimates and progress depend on server data and may be wrong. The
+user should ensure sufficient quota, battery, and free storage before a large action.
+
+60. Performance, battery, heat, and storage
+
+60.1. Memory, CPU, battery, and storage consumption depend on tab count, Websites,
+media, selected engine, system WebView components, device, and Android version. No
+particular runtime or speed figure is guaranteed.
+
+60.2. A complex page or third-party engine defect may freeze, restart a tab, heat
+the device, accelerate battery drain, or cause Android to terminate a process. The
+user should close unused tabs, preserve important work, and not rely on an unsaved form.
+
+60.3. Optimizations may defer loading a restored background tab until it is first
+selected, pause an inactive engine, and use caches. A restored tab may therefore
+need time and network access when selected; its saved address has not necessarily
+been lost.
+
+60.4. No more than eight tabs are automatically restored during one interface
+recreation. This limit reduces peak memory use; addresses beyond the limit might
+not return in that session.
+
+60.5. Low storage may disrupt downloads, caching, or updates. Weglet is not required
+to delete the user's files from the system Downloads folder automatically.
+
+61. Tab restoration, backups, and continuity
+
+61.1. Weglet may preserve tab addresses during ordinary Activity recreation, but
+does not promise to restore page history, typed text, script state, account login,
+media position, or an unsaved operation.
+
+61.2. A restored address may open a Website that has changed and initiates a new
+network request. The tab list is not an archive of page content or proof that a
+page remained unchanged.
+
+61.3. Disabling App backup reduces unintended transfer of local data, but the user
+must separately make lawful backups of important files and verify restoration.
+
+62. Responding to failures and incidents
+
+62.1. On suspected phishing, account compromise, or malicious download, the user
+should stop interacting, disconnect when appropriate, change secrets from a trusted
+device, alert the affected service, and contact a competent professional or authority.
+
+62.2. Clearing Weglet data may remove local traces needed for analysis. If evidence
+is required, preservation steps should be agreed with a qualified person before
+clearing or reinstalling the App.
+
+62.3. A report to the Developers should omit passwords, tokens, cookies, intimate
+material, and another person's personal data wherever possible. The sender is
+responsible for lawful transmission and should use a private channel for sensitive data.
+
+63. Responsible vulnerability disclosure
+
+63.1. Good-faith vulnerability reports are welcome. A researcher must minimize data
+access, avoid disrupting others, avoid persistence, avoid demanding payment through
+a threat of publication, and allow reasonable time for validation and remediation.
+
+63.2. Absence of a separate bounty program creates no promise of payment, immunity,
+or permission to test third-party Websites. Developer authorization can cover only
+infrastructure the Developers actually control.
+
+63.3. Publication of technical details should consider user risk, fix readiness,
+and applicable law. The Developers may dispute an inaccurate report but do not
+restrict lawful reporting to a regulator or law-enforcement authority.
+
+64. Records, evidence, and display accuracy
+
+64.1. An address bar, tab title, engine history, screenshot, and device timestamp
+may be influenced by a Website, settings, time zone, or user. They are not a
+certified extract, immutable log, or qualified electronic timestamp.
+
+64.2. Legally significant evidence should be collected under a procedure accepted
+in the relevant jurisdiction, preserving source, full address, time, metadata,
+hashes, and chain of custody with competent assistance.
+
+64.3. The Developers do not authenticate a web page and need not retain visit
+copies. The absence of an App-operated log may mean the Developers have nothing
+that can establish a particular session.
+
+PART X. REQUESTS, DISTRIBUTION, AND THE OPEN PROJECT
+
+65. Government requests and data preservation
+
+65.1. The Developers can assess a binding legal request only for information they
+actually control. Because the standard build does not send them centralized browsing
+history, they ordinarily cannot produce content they never received.
+
+65.2. This section does not promise resistance to a lawful demand and does not mean
+that the user or a Website lacks records. A carrier, DNS provider, VPN, search engine,
+Website, Android component, or modified-build distributor may hold separate data.
+
+65.3. A preservation request cannot recreate information that was never collected.
+The Developers need not build surveillance for a future request unless applicable
+Mandatory Law expressly imposes such a duty.
+
+66. Content complaints and absence of hosting
+
+66.1. Weglet does not host or index all viewed Website content on a Developer server.
+A demand to remove a page, post, or account should ordinarily be directed to the
+Website owner, host, search engine, or other party controlling the material.
+
+66.2. A notice to the Developers should identify the specific part of their own
+code, official project page, or distributed file alleged to infringe, provide the
+claimant's contact details and legal basis, and include any good-faith statement
+required by law.
+
+66.3. The Developers may remove a link from their documentation or alter their own
+build but cannot guarantee deletion of independent copies, forks, caches, search
+results, or third-party material.
+
+67. Export controls, sanctions, and territorial restrictions
+
+67.1. Users and Distributors must comply with applicable export, import, cryptography,
+sanctions, and prohibited-end-use rules. An open-source license does not override
+public law applying to a particular person or transfer.
+
+67.2. Source availability or a reachable download is not a representation that use,
+supply, or support is lawful in every country. The party taking the relevant action
+is responsible for classification, authorization, notification, and recipient review.
+
+67.3. Nothing in these terms requires an act prohibited by law or should be read as
+advice to evade a territorial restriction.
+
+68. Forks, changes, and derivative builds
+
+68.1. A person who changes source, resources, network endpoints, permissions, name,
+signature, or settings is responsible for testing and describing those changes.
+Statements about the official build must be revised if a fork adds analytics,
+servers, advertising, synchronization, or otherwise changes data practices.
+
+68.2. A derivative build should be distinguishable so a reasonable user does not
+mistake it for an unchanged official release unless the Developers expressly agree.
+Attribution required by a license does not imply endorsement of a fork.
+
+68.3. A fork distributor independently supplies legally required publisher details,
+privacy disclosures, support, updates, license notices, and terms matching its features.
+
+68.4. A defect, backdoor, malicious component, or unlawful function added by a third
+party is not an act of the original Developers without evidence of their participation.
+Each contributor's liability is determined from that contributor's actual conduct.
+
+69. App stores, mirrors, and distribution intermediaries
+
+69.1. A store, catalog, forum, cloud host, or mirror acts under its own rules. It may
+change packaging, availability, geography, checks, signature, or description without
+becoming an agent of the Developers.
+
+69.2. The user should verify package identifier, version, checksum, signing certificate,
+and provenance. A matching name or icon does not prove that an APK was produced or
+reviewed by the official maintainers.
+
+69.3. Fees, refunds, and promises made by an intermediary are governed by the user's
+relationship with that intermediary. The Developers are not responsible for an
+independent distributor's false statement unless they made it or law provides otherwise.
+
+70. APK signatures, updates, and chain of trust
+
+70.1. Android accepts an update over an installed app only with a compatible package
+identifier and signature. A build signed with another key may require a separate
+installation or removal of the old build, potentially erasing local data.
+
+70.2. A test or development signature confirms integrity of the particular file
+after signing but is not equivalent to an audit, store certification, or guaranteed
+identity of every author. The key owner must secure the private key separately.
+
+70.3. A user should not disable platform security or install an unknown certificate
+merely because the Weglet name matches. A distributor changing keys must explain
+migration and data-loss risk clearly.
+
+70.4. The Developers cannot issue an update compatible with a third party's key
+that they do not possess. This technical limit is not a refusal to fix source code.
+
+71. Contributions, reports, and feedback
+
+71.1. A person submitting a patch, translation, design, report, or suggestion to a
+public repository represents that the person may do so and agrees to processing and
+publication reasonably inherent in repository operation and the applicable license.
+
+71.2. A submission must not contain another person's secrets, personal data, NDA
+material, or incompatibly licensed code. Removing a public contribution may not
+remove lawful forks or version-control history.
+
+71.3. Feedback does not create a duty to implement an idea, pay compensation, keep
+it secret, or transfer project authorship. Rights in a specific contribution are
+determined by its stated license and law.
+
+72. Name, marks, and public statements
+
+72.1. Apache License 2.0 authorizes use of code within its terms but does not grant
+a separate right to use the Weglet name, logo, or reputation in a way that falsely
+suggests an official release, partnership, or warranty.
+
+72.2. Truthful attribution, compatibility statements, and change descriptions are
+allowed. A person must not attribute advertising, political views, product approval,
+or support promises to the Developers when they made none.
+
+72.3. Reviews, criticism, and other lawful references do not require permission
+under these terms. A dispute about a particular mark remains subject to Mandatory Law.
+
+PART XI. ADDITIONAL LEGAL MECHANICS
+
+73. No agency, partnership, or third-party contractual rights
+
+73.1. Weglet use creates no employment, agency, fiduciary, partnership, joint-
+venture, or representative relationship between a user and the Developers. A user
+may not incur obligations, promise, or speak on behalf of the Developers.
+
+73.2. Mention of a Website, library, search provider, or maintainer does not create
+a joint enterprise or mutual endorsement. Each party remains responsible for its
+own conduct, systems, and statements.
+
+73.3. Unless Mandatory Law provides otherwise, these terms create no independent
+contractual enforcement right for an incidental third person. They do not restrict
+non-contractual rights that the law grants directly to an injured person.
+
+74. Assignment, notices, and electronic form
+
+74.1. A user may not transfer the contractual right to operate the compiled build
+in a way that removes obligations already incurred. Transfer of an open-source copy
+is governed by its license and does not require assignment of this agreement as property.
+
+74.2. The Developers may transfer project maintenance or rights in their own code
+to a successor while preserving Mandatory Rights and applicable licenses. Moving or
+renaming a repository does not change authorship of another person's contribution.
+
+74.3. In-App, repository, or official-page notices may be electronic where the law
+permits. The user is responsible for checking provenance and should not trust a
+message from an unverified account.
+
+74.4. A legal notice is received only under applicable law and the channel actually
+used. A public comment does not guarantee confidentiality, urgent review, or valid service.
+
+75. Final risk allocation and limits of interpretation
+
+75.1. The document's central principle is that Weglet supplies a neutral software
+tool, Websites supply their content and services, and the user selects addresses
+and actions. Risk and responsibility follow actual control, conduct, causation,
+fault, and Mandatory Law.
+
+75.2. Neither a long risk list nor a warning about a category means that the
+Developers control the risk, assume a duty to prevent every event, or admit liability.
+The list supports informed choice and is not exhaustive.
+
+75.3. No disclaimer, cap, indemnity, or allocation applies where law forbids it.
+In particular, this document does not release a person from that person's own intent,
+fraud, proven purpose-specific assistance to a crime, or another non-excludable case.
+
+75.4. At the same time, the Developers do not assume responsibility for an independent
+user decision merely because a universal browser was one of many technical means.
+A claim must establish the defendant's specific unlawful conduct and legally relevant
+causation, not merely the presence of software.
+
+75.5. Provisions applying to the same event are read together. A specific provision
+refines a general one, Mandatory Law controls, and an invalid part is treated under
+Section 41.
+
+PART XII. FORK, MODIFICATION, AND REDISTRIBUTION RULES
+
+76. Relationship between the open-source license and these rules
+
+76.1. Weglet's own source code is made available under Apache License 2.0. That
+license controls the copyright and patent permissions it grants to use, reproduce,
+modify, and distribute the covered code. This Part must not be read as a hidden
+revocation, narrowing, or replacement of rights expressly granted by that license.
+
+76.2. An open-source license does not make every modified build an official Weglet
+release, authorize anyone to speak for the Developers, or grant a general right to
+use names, logos, or presentation in a way that makes a fork look official.
+
+76.3. Sections 77-85 are mandatory conditions for use of Weglet's official name,
+presentation, distribution channels, infrastructure, and reputation. Otherwise they
+also state a standard for safe and honest redistribution. If a particular requirement
+cannot govern licensed code because Apache License 2.0 controls, that license prevails;
+independent rules against deception, malware, and unlawful conduct still apply.
+
+76.4. A third-party developer must identify the license of every added file and
+dependency. Apache License 2.0 for Weglet's own code does not relicense GeckoView,
+fonts, media, threat feeds, SDKs, or another component governed by separate terms.
+
+77. Official and modified build status
+
+77.1. A build is official only when released by the maintainer through a channel
+identified by that maintainer and signed by the certificate announced for that channel.
+Matching UI, filename, version, icon, package name, or the word "official" does not
+prove provenance.
+
+77.2. A build is modified if code, resources, dependencies, configuration, endpoints,
+security policy, permissions, signature, or the build process has changed. Its
+distributor must conspicuously call it a fork or third-party modification and must not
+hide that fact in the UI, listing, archive name, update metadata, or advertising.
+
+77.3. "Based on Weglet," "compatible with Weglet," and "fork of Weglet" may truthfully
+describe origin without implying endorsement. "Official," "verified by the Weglet
+team," "same developer," or equivalent claims require actual written authorization.
+
+77.4. The official Developers are not the publisher, operator, data controller,
+employer, or guarantor of a third-party fork. A defect, data collection practice, ad,
+malicious feature, or legal violation in a fork is attributable to the person that
+created, commissioned, signed, or distributed it, subject to evidence and Mandatory Law.
+
+78. Distinct fork name, identifier, and presentation
+
+78.1. A publicly distributed modified build not approved as an official release must
+have a clearly distinctive primary name. It may truthfully say "Name, a fork of Weglet,"
+but Weglet must not be the third-party product's only or dominant designation.
+
+78.2. To prevent substitution and update conflicts, the distributor must change Android
+applicationId `app.weglet.browser.v2` and, where practical, namespace
+`app.weglet.browser`, its deep-link scheme, APK name, update
+channel, and other unique identifiers unless the build is an authorized update of the
+official branch.
+
+78.3. A fork must use its own signing identity. No person may request, extract, copy,
+publish, or use an official build's private signing key without authority. A fork
+developer must protect its key, document replacement, and understand that a signature
+change normally prevents an in-place update of a differently signed build.
+
+78.4. The icon, About screen, maintainer identity, support links, and privacy notice
+must let an ordinary user identify who prepared the build. An official maintainer's
+contact must not remain the only support contact when that person does not control it.
+
+78.5. These rules reduce fake-update risk and do not prohibit license-required
+attribution. Attribution to original authors and a distinct identity for the new
+product should appear together.
+
+79. Modification notices and corresponding source claims
+
+79.1. Redistribution must comply with Apache License 2.0, including a license copy,
+prominent notices in modified files, and retention of applicable copyright, patent,
+trademark, and attribution notices.
+
+79.2. A fork description must disclose material behavioral changes, including added
+servers, analytics, ads, permissions, updates, search providers, certificate handling,
+tracker controls, Safe Browsing exceptions, and warning bypasses. "Minor fixes only"
+must not conceal a changed data flow or threat model.
+
+79.3. The distributor must provide the privacy notice and license information that
+actually apply to its build before or during installation. Linking only to the official
+notice is insufficient where the fork processes data differently.
+
+79.4. A distributed source archive must correspond to the claimed binary to the extent
+required by applicable licenses and truthful representation. A person must not present
+clean public code as the source for an APK secretly containing another module, endpoint,
+key, loader, or advertising SDK.
+
+79.5. Publishing a commit identifier, build instructions, dependency list, APK digest,
+and certificate fingerprint is recommended. It does not make a fork official or replace
+independent review, but it helps recipients detect substitution.
+
+80. Absolute prohibition on malicious modifications
+
+80.1. A build or accompanying package must not contain trojans, spyware, ransomware,
+hidden miners, malware loaders, botnet clients, keyloggers, or stealers of cookies,
+tokens, passwords, seed phrases, payment data, or other information obtained without
+a person's valid and informed choice.
+
+80.2. Secret remote commands, intentional backdoors, authentication bypass, covert
+package installation, and undisclosed replacement of pages, certificates, DNS, proxies,
+search results, downloads, or recipients are prohibited. Calling a capability
+"support" does not prevent it from being a backdoor.
+
+80.3. No person may add code for unlawful access, mass phishing, concealing attack
+origin, exploitation, stalking, threats, violence, child sexual abuse material, or
+other harm. This includes configuration, plugins, remote flags, and post-install updates.
+
+80.4. No person may intentionally weaken TLS, accept every certificate, suppress HTTP
+warnings, label an unsafe page as verified, disable protection without a clear choice,
+or conceal added permissions. Security research is appropriate only in a lawful,
+controlled environment and does not justify giving dangerous builds to ordinary users.
+
+80.5. A person that adds or knowingly distributes a malicious capability acts
+independently, not for the original Developers. No open-source license, "educational"
+label, disclaimer, or lengthy agreement authorizes crime or transfers responsibility
+for an intentional act to authors of neutral code.
+
+81. Android permissions and fork privileges
+
+81.1. A fork should request only permissions necessary for a stated feature and explain
+sensitive access in plain language before use. Technical ability to request camera,
+microphone, location, contacts, files, notifications, or package installation is not consent.
+
+81.2. Permission must not be obtained deceptively, repurposed, or retained after
+revocation. A website decision and Android's system permission are separate choices and
+must not be merged into an ambiguous control.
+
+81.3. Accessibility Service, VPN, Device Administrator, certificate management, local
+proxy, root, and similar powers require particularly clear justification. They must not
+be added merely for analytics, advertising, retention, or covert traffic control.
+
+81.4. A fork developer should review exported Activities, Services, Receivers,
+Providers, deep links, and PendingIntents, prevent unintended cross-app access, and
+apply the narrowest file and IPC privileges compatible with the feature.
+
+82. Telemetry, advertising, and data in forks
+
+82.1. Adding analytics, crash reporting, ad SDKs, sync, a search proxy, push services,
+or remote configuration gives the fork a data model different from the official build.
+Its operator must independently determine legal basis, party roles, retention,
+security measures, and mechanisms for individual rights.
+
+82.2. History, queries, URLs, page titles, identifiers, advertising profiles, precise
+location, or form content must not be hidden behind "product improvement." A notice
+must identify categories, purposes, recipients, transfer countries, retention, and
+opt-out methods with the specificity required by law.
+
+82.3. Password fields, payment fields, private messages, or page content must not be
+transmitted without a separate lawful basis and strict necessity. Consent is not freely
+given when refusal unjustifiably removes a core function or the UI manipulates choice.
+
+82.4. A fork must not copy the official statement "we do not collect history" after
+adding a relevant channel. Its distributor is responsible for its own representations;
+the original Developers do not inspect its servers or answer requests for data they lack.
+
+83. Signing, updates, and supply-chain security
+
+83.1. An update delivers new executable code and must be protected at least as carefully
+as initial installation. An update channel should use modern TLS, verifiable signatures,
+protected version metadata, and safeguards against rollback to a known-vulnerable build.
+
+83.2. Arbitrary executable code must not be fetched from a mutable server without a
+clear feature, integrity verification, and lawful choice. A fork must not bypass Android
+installation confirmation or disguise an APK as media, a document, or a mandatory
+"security component."
+
+83.3. Private keys must not be kept in a public repository, source archive, APK, shared
+chat, or exposed CI variable. Suspected compromise requires pausing release, investigation,
+user warning, and safe migration rather than concealing a certificate change.
+
+83.4. Dependencies and build tools should come from verifiable sources. Version pins,
+checksums, least-privilege CI, release logs, and independent review of critical changes
+are basic supply-chain hygiene, not a guarantee against compromise.
+
+84. Testing and preserving security properties
+
+84.1. Before distribution, a fork should test clean installation, updates, HTTP/HTTPS
+navigation, certificate errors, Safe Browsing, local blocklists, downloads, permissions,
+data clearing, tab recovery, and renderer-process failure.
+
+84.2. Changing the engine, targetSdk, minSdk, network configuration, or dependencies
+requires a renewed threat assessment. Successful compilation does not prove security,
+compatibility, accessibility, store compliance, or absence of regressions.
+
+84.3. Disabled protection must be visible. A fork must not retain a green indicator,
+"protected" label, or old description after accepting invalid certificates, allowing
+mixed content, enabling debugging, removing tracker blocking, or ceasing feed updates.
+
+84.4. Antivirus, static-analysis, or app-store review is useful but not absolute proof.
+A distributor must not promise "100% secure," "phishing impossible," or "fully anonymous"
+because one check passed.
+
+85. Fork distribution, support, and incident response
+
+85.1. A fork download page should state publisher, version, date, supported Android
+versions, architecture, checksum, signing fingerprint, source link, licenses, privacy
+notice, and a reachable vulnerability-reporting channel.
+
+85.2. An APK must not be delivered through a fake system warning, fake official update,
+compromised account, spam, malicious ad, or substituted QR code. A person must understand
+that a third-party build is being installed.
+
+85.3. On a credible report of a critical vulnerability, key leak, hidden collection, or
+malicious dependency, the fork operator should preserve evidence, limit distribution,
+identify affected releases, prepare a fix, and notify people as law and reasonable
+security require.
+
+85.4. The official Developers may decline to list, promote with their marks, or support
+a fork. Removing an official link does not cancel Apache License 2.0 code rights and
+does not create a duty to investigate in place of the fork's actual operator.
+
+PART XIII. EXPANDED PRIVACY NOTICE
+
+86. Official-build architecture and no Weglet server account
+
+86.1. The official build contains no Weglet account, cloud browsing-history sync,
+Weglet advertising identifier, developer analytics SDK, or developer server to which
+opened URLs and searches are intentionally submitted. The Developers do not receive
+a person's history merely because that person uses the browser.
+
+86.2. This statement concerns the official build at this revision and Weglet-controlled
+infrastructure. It does not mean the Internet works without network transfers: a
+Website, search provider, DNS service, network, Android component, engine, threat-feed
+source, or external app may receive data needed or represented for its own service.
+
+86.3. The Developers do not sell or rent browsing history that the official build does
+not send them. They also cannot export, correct, or erase records held by a Website or
+search provider because they do not operate that server and ordinarily cannot access it.
+
+86.4. If a future official build adds first-party sync, telemetry, or a server feature,
+this description must be updated before that processing begins, and separate consent
+must be requested where Mandatory Law requires it.
+
+87. Data stored locally on the device
+
+87.1. The App may keep settings, the accepted terms revision, restorable tabs,
+bookmarks, selected shortcuts, a blocklist, appearance choices, download identifiers,
+local threat hashes, and normal engine data in Android private storage.
+
+87.2. Cookies, cache, DOM storage, and other Website data are created by the engine to
+operate pages. Weglet restricts third-party cookies and offers clearing controls, but
+actual support and deletion timing also depend on WebView or Gecko, Android, and the site.
+
+87.3. "Local" does not mean inaccessible after physical unlocking, malware, root,
+an OS vulnerability, backup, repair, or device transfer. The user is responsible for
+screen locking, system updates, and erasure before selling or transferring a device.
+
+87.4. Uninstalling or clearing generally removes data controlled by the App, but it
+does not recall a request already sent to a site, delete a downloaded file, or erase
+information independently retained by another party.
+
+88. Protection counters and local HTML analysis
+
+88.1. The blocked-tracker request count, last matched tracker domain, and counts of
+HTML checks, warnings, and blocks exist only in process memory for the current session.
+The official build neither sends these counters to the Developers nor records them as
+a persistent browsing history.
+
+88.2. WebView's local anti-phishing analysis runs after an HTTPS page loads. It checks
+for a password form, its action protocol and origin, limited heading and control text,
+brand signals in images, and meta refresh.
+
+88.3. The analysis does not read entered input values, intercept a password, capture
+the page, or send HTML or results to a Weglet server. It uses structural signals within
+the WebView process and returns only a small result code: normal, warning, or block reason.
+
+88.4. This function is available in system WebView mode. Gecko mode uses Content
+Blocking, Safe Browsing, and URL checks, but the WebView counter and local DOM analysis
+do not describe all Gecko actions and are not a complete log.
+
+88.5. Structural similarity is heuristic. It can miss a new imitation or warn about
+legitimate federated authentication. A result is not an accusation, forensic opinion,
+or guarantee; a user should independently verify the domain before entering a secret.
+
+89. Search providers and search queries
+
+89.1. When input is not a URL, Weglet constructs a location for the selected search
+provider. The query is sent to that provider in a URL or its expected mechanism.
+Without that transfer, an independent provider cannot return search results.
+
+89.2. A provider may see the query, IP address, time, protocol headers, cookies,
+approximate location, and other data and may associate it with its own account.
+Purposes, retention, advertising, and international transfers are determined by that
+provider and law applicable to it, not by the Weglet Developers.
+
+89.3. Selecting a provider does not endorse its policy. A user can select another
+available provider or a valid custom template but must verify the template endpoint;
+a malicious template can send queries to an unexpected third party.
+
+89.4. Clearing local data or changing provider does not send the former provider an
+erasure request. Rights concerning its records must be exercised through its contacts
+and procedures where applicable.
+
+90. Websites as independent recipients and operators
+
+90.1. Opening a page connects the device to the Website and required hosts. They may
+receive IP address, User-Agent, language, time, requested path, referrer, cookies,
+device characteristics, and information the user intentionally enters or uploads.
+
+90.2. A Website selects its content, forms, scripts, login, payments, retention, and
+recipients. Displaying it does not make Weglet its owner, seller, employer, bank,
+physician, or controller of the Website's database.
+
+90.3. Blocking known trackers reduces some requests but cannot prevent first-party
+analytics, server-side tracking, fingerprinting, CNAME cloaking, required network
+logs, or unknown domains. Protection mode is not anonymity.
+
+90.4. When a Website asks for identity, contact, document, payment, or health data, the
+user should read its notice and assess necessity. This document does not replace an
+independent Website policy or appoint the Developers as that Website's representative.
+
+91. Networks, DNS, operating system, and device provider
+
+91.1. An ISP, Wi-Fi operator, VPN, DNS resolver, device manufacturer, Android component,
+or enterprise administrator may process network metadata within its technical role and
+policy. Weglet does not operate their logs or choose their laws.
+
+91.2. HTTPS protects content against ordinary observation between the device and
+endpoint, but does not hide every fact of communication from every participant or make
+the endpoint honest. HTTP lacks comparable protection and therefore receives a warning
+and restricted mode.
+
+91.3. A user-selected VPN or installed root certificate changes routing and trust.
+The Developers do not audit a chosen VPN, MDM, antivirus HTTPS filter, or local proxy
+and do not promise that it cannot observe traffic.
+
+91.4. A compulsory government request to an independent provider is governed by that
+provider's control and applicable law. Data absent from the Weglet Developers may still
+exist with a Website, network, platform, or the user.
+
+92. Safe Browsing, Gecko, OpenPhish, and security providers
+
+92.1. WebView uses the system Safe Browsing mechanism, while Gecko uses protections
+implemented by that engine. An implementation may download lists, contact its provider,
+or otherwise process information according to engine version, documentation, and policy.
+
+92.2. The official build uses OpenPhish as a downloaded indicator feed. An update
+request exposes ordinary connection data, including IP address and time, to the feed
+host. URLs opened by the user are then matched against local hashes and are not sent
+to OpenPhish by Weglet's matching mechanism.
+
+92.3. A feed provider may change availability, format, completeness, or terms. No match
+does not prove safety, and a match can be stale or mistaken. The Developers may replace,
+disable, or adjust a source to protect users.
+
+92.4. The engine library, Safe Browsing, and threat feed are independent components.
+Mention does not create a joint company or transfer the Developers' responsibilities.
+Their own licenses, notices, and policies apply to their activities.
+
+93. Downloads, external applications, and media services
+
+93.1. A download transfers a file from a Website through Android DownloadManager to
+selected storage. Android and the file provider may process network and file metadata.
+Weglet gives warnings but does not perform a complete antivirus examination.
+
+93.2. Share actions, external schemes, APK installation, and file opening transfer data
+to the selected application by user choice and Android rules. Weglet does not control
+copying, cloud upload, or further use after transfer.
+
+93.3. Search or playback through Audius or another external media service creates
+direct requests to that service and its hosts. It may receive the query, IP address,
+and technical data under its policy. Weglet does not host its catalog or guarantee
+rights in a track.
+
+93.4. Even over valid HTTPS, a file can contain malicious code, a deceptive document,
+or unlawful material. The user should verify source, extension, signature, and legality
+before opening or sharing.
+
+94. Jurisdictions, cross-border transfers, and independent control
+
+94.1. A Website, search provider, and infrastructure may be in another country.
+Privacy rules, retention, government access, and remedies can differ from the user's
+place of residence.
+
+94.2. The Developers do not choose the jurisdiction of every user-entered address or
+execute a processing agreement with every site on the user's behalf. This does not
+remove duties for processing they actually control, if any, and does not make them
+responsible for an independent database merely because navigation is possible.
+
+94.3. "Outside our control" describes technical and organizational separation, not
+universal legal immunity. Roles and liability depend on facts, decisions about purposes
+and means, causation, and Mandatory Law.
+
+94.4. The absence of a Weglet office in a country is not a guarantee that no rights or
+duties apply. Mandatory consumer, criminal, export, sanctions, and protective rules
+apply regardless of contract phrasing.
+
+95. Data requests, evidence, and transparency
+
+95.1. A request to the Developers should identify the official component and data
+believed to be within their control. They cannot produce Website, search-provider, ISP,
+or third-party-fork history that they do not hold.
+
+95.2. If the official project later holds data subject to mandatory access, correction,
+erasure, restriction, or objection rights, a request will be considered under applicable
+law after reasonable verification of identity and authority.
+
+95.3. A public issue or chat should not publish passwords, tokens, complete history,
+identity documents, or potential victim addresses. A minimal reproducible description
+is normally enough; sensitive evidence should use an announced secure channel.
+
+95.4. The Developers may retain a vulnerability report and necessary technical details
+to investigate, protect the project, and comply with law. Such a report is a separate
+voluntary transfer, not background collection from every user.
+
+PART XIV. DETAILED SECURITY MODEL AND LIMITS
+
+96. Layered protection without an absolute guarantee
+
+96.1. Weglet combines scheme and domain checks, a local reputation feed, Safe Browsing,
+hard blocking of certificate errors, HTTP warnings, mixed-content restrictions,
+engine anti-tracking, a user blocklist, and local form analysis in WebView.
+
+96.2. The layers complement each other because no domain heuristic, list, or HTML
+analysis detects every new threat. An unknown domain can become malicious immediately,
+and a compromised legitimate Website may still have valid TLS.
+
+96.3. "Protection," "blocked," and the TLS mark describe a particular completed check,
+not a promise about the whole page, transaction, person, file, or next link. A user
+should not disclose a secret solely because an indicator has a reassuring color.
+
+96.4. The Developers may adjust heuristics to reduce harm and false alerts. A threshold
+change is not an admission that an earlier release was negligent; quality depends on
+actual circumstances and knowledge reasonably available at the time.
+
+97. Tracker protection and the session report
+
+97.1. Weglet compares resource domains against a local set of known advertising and
+analytics hosts, blocks matches, and displays the request count in the Protection
+Center. Subdomains of listed roots are matched as well.
+
+97.2. The count includes only requests observed by Weglet's own WebView interceptor in
+the current process. It may omit earlier engine blocks, Gecko requests, cached resources,
+or server-side tracking and is not a complete list of companies attempting processing.
+
+97.3. The last domain is shown for explainability, not as a public accusation. One host
+can serve multiple functions, and its presence does not prove unlawful conduct by the
+Website owner. The list is a defensive product rule.
+
+97.4. Blocking can break a widget, video, login, payment, or analytics required by a
+site. The absence of a per-site exception in a release does not create a right to
+compatibility with every third-party script.
+
+98. URL anti-phishing and actual-domain checks
+
+98.1. Before navigation, Weglet analyzes length, control and bidirectional characters,
+userinfo, backslashes, IP addresses, punycode, mixed scripts, subdomain count, unusual
+ports, shorteners, sensitive words, and imitation of supported brands.
+
+98.2. A normalized domain is shown where useful. A path, subdomain, and text before
+`@` are not the registrable domain owner. A person must inspect the actual root and
+account for country-code domains.
+
+98.3. High risk can be blocked without bypass, while ambiguous risk can show a warning.
+This safety choice does not allege that every blocked operator committed a crime or
+that every allowed address received human review.
+
+98.4. User approval of a suspicious address concerns that navigation only and does not
+make a Website permanently trusted. Redirects, domain changes, and new sessions can
+trigger checks again.
+
+99. Structural form and page-similarity analysis
+
+99.1. On an HTTPS WebView page, a local script first looks for a password-type field.
+When one exists, it checks the form action and a limited set of structural signals.
+The entered field value is never requested or used.
+
+99.2. A password submission to HTTP is blocked immediately. Another high-confidence
+signal occurs when login structure, headings, and image cues collectively imitate a
+supported known brand while the actual domain is not one of that brand's roots.
+
+99.3. A cross-origin HTTPS action or meta refresh near a login form produces a warning
+because legitimate SSO and payment flows can redirect too. The user should verify both
+domains and stop when a recipient is unexpected.
+
+99.4. This is structural-similarity analysis, not page copying, biometric brand
+identification, or a cloud neural network. It does not compare every pixel or retain
+reference HTML, so an attacker can evade it through changes.
+
+99.5. A Website can create a form after the check or submit through script without a
+standard action. Tracker blocking and mixed-content restrictions reduce risks but do
+not replace password managers, hardware keys, multifactor authentication, and caution.
+
+100. HTTP warning and restricted mode
+
+100.1. A main navigation to `http://` is not opened silently. The user is told that
+the connection is unencrypted and can be read or changed by the network and may decline
+or explicitly open that exact address once.
+
+100.2. For a one-time opening, Weglet disables JavaScript and DOM storage for the
+insecure page and continues blocking unapproved HTTP resources. This reduces attack
+surface but does not encrypt the connection or make entered data confidential.
+
+100.3. Approval applies only to that URL in the current process, not the entire domain.
+A redirect or new session may require another decision, and the site may not work fully
+without JavaScript.
+
+100.4. Passwords, payment, health, work, or identity data should not be entered through
+HTTP. A private network, familiar router name, or absence of visible attack does not
+provide cryptographic integrity.
+
+101. TLS, certificates, and mixed content
+
+101.1. On a TLS error, Weglet cancels loading and provides no ordinary "continue"
+button. An expired, untrusted, wrong-domain, or otherwise invalid certificate may
+indicate site misconfiguration, interception, or an incorrect clock.
+
+101.2. No bypass is an intentional barrier. A user may correct time or network settings
+or contact the site owner, but should not install an unknown root certificate merely
+to remove the warning.
+
+101.3. WebView denies mixed active content on HTTPS. A site trying to load an HTTP
+script, image, or tracker may render incompletely. Compatibility does not take priority
+over a hidden security downgrade.
+
+101.4. A valid certificate confirms a cryptographic connection to the domain under the
+trust infrastructure. It does not prove seller honesty, product quality, absence of
+phishing on a compromised domain, or legality of content.
+
+102. False positives, misses, and rule updates
+
+102.1. Reputation lists and heuristics necessarily have false positive and negative
+results. A user may report a minimal example but receives no guarantee of immediate
+reclassification, permanent availability, or compensation for a block.
+
+102.2. The Developers may add or remove a domain, brand, TLD, structural signal, or feed
+provider after quality review. Publishing every detail can assist evasion, so internal
+implementation need not be disclosed beyond legal requirements.
+
+102.3. Disabling an available protective feature increases risk. A switch does not mean
+the Developers recommend disabling it, while the absence of a switch does not assume
+liability for every incompatible Website.
+
+102.4. An old release may lack new rules and engine fixes. Users should obtain APKs from
+a verified channel, check signatures, and update Android System WebView, relevant Chrome
+components, Gecko dependencies, and the OS within device support.
+
+103. Practical user security responsibilities
+
+103.1. Before disclosing a secret, verify the full domain, TLS, link source, form purpose,
+and whether the request was expected. Urgency, account-lock threats, prizes, and requests
+for one-time codes are reasons to stop and verify another channel.
+
+103.2. Use unique passwords, a password manager, multifactor protection, and separate
+confirmation of financial transactions. SMS, push, or hardware-key codes must not be
+given to a person who unexpectedly requests them.
+
+103.3. Verify APKs and executable files by source, signature, and checksum. Weglet does
+not automatically execute a download, but opening it in another application can give
+code that application's or the system's capabilities.
+
+103.4. After suspected phishing, close the page, do not submit, change an entered
+password from a trusted device, revoke sessions, contact the bank or service, and check
+the device. A project report does not replace urgent account-owner action.
+
+PART XV. ADDITIONAL APPLICATION RULES
+
+104. Fork-rule violations and user protection
+
+104.1. Use of Weglet identifiers for a malicious or deceptive build may result in a
+demand to stop false representation, remove official identifiers, correct descriptions,
+and notify recipients. Available remedies are determined by applicable law.
+
+104.2. The Developers may publish official certificate fingerprints, counterfeit
+warnings, and technical distinctions to protect users. A truthful warning neither
+owns a third-party fork nor accepts responsibility for its contents.
+
+104.3. A person voluntarily offering support, warranty, indemnity, or other liability
+for a fork acts only on its own behalf, as Apache License 2.0 provides, and may not
+attribute that promise to original Contributors without a separate written agreement.
+
+104.4. Nothing here authorizes unauthorized access to an alleged violator's server,
+publication of personal data, threats, or retaliation. Suspicions should be reported to
+a platform, rights holder, or competent authority by lawful and proportionate means.
+
+105. Completeness, priority, and no fictional immunity
+
+105.1. This document is detailed to make risks, data flows, and control boundaries
+transparent. Word count does not create automatic immunity, prove absence of negligence,
+or waive rights that Mandatory Law makes non-waivable.
+
+105.2. At the same time, the developer of a neutral browser does not become the author
+of every user query, message, crime, or injury. Liability requires a legal basis,
+actual control, conduct, fault, causation, and evidence, not technical use alone.
+
+105.3. A conflict is resolved in this order: Mandatory Law; an applicable open-source
+or third-party component license for rights it grants; and then this agreement to the
+permitted extent. A heading, summary, or example does not override a precise provision.
+
+105.4. If translations diverge, meaning is determined with regard to the language of
+actual consent, good faith, mandatory rules, and the provision's purpose. A user should
+retain the revision number shown at acceptance.
+
+PART XVI. ACKNOWLEDGMENT
+
+106. By tapping "Accept," you confirm that:
+
+a) you had an opportunity to read the complete text before a browsing session;
+
+b) you understand that Weglet is a general-purpose tool, not a guarantee of
+security, legality, anonymity, or Website accuracy;
+
+c) you will use the App lawfully and will not harm others;
+
+d) you understand the network transfers described in Part VI;
+
+e) your own acts remain your responsibility, while any other person's liability
+is determined by law and evidence; and
+
+f) Mandatory Law is not waived by this document;
+
+g) you understand the difference among an official build, source code, and a
+third-party fork;
+
+h) Websites, search providers, networks, Android, engines, and external apps can
+independently process data sent to them under their own rules; and
+
+i) session counters and local HTML analysis are not a complete history, antivirus
+forensic examination, or guarantee of detecting every threat.
+
+Android version maintainer: @Durov500
+Desktop version maintainer: @avrety
+
+License for the App's own code: Apache License 2.0.
+Mozilla GeckoView: Mozilla Public License 2.0.
+Onest and JetBrains Mono: SIL Open Font License 1.1.
+Tabler Icons 3.46.0: MIT License.

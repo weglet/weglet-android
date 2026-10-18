@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="weglet_background">#15151B</color>
+    <color name="weglet_surface">#22222B</color>
+    <color name="weglet_ink">#F4F1FF</color>
+    <color name="weglet_muted">#AAA7B7</color>
+    <color name="weglet_green">#9C8CFF</color>
+    <color name="weglet_green_dark">#9C8CFF</color>
+    <color name="weglet_warning">#9C8CFF</color>
+    <color name="ic_launcher_background">#121119</color>
+</resources>
